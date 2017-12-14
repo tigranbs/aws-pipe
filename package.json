@@ -1,0 +1,22 @@
+{
+    "name": "aws-pipe",
+    "version": "0.0.1",
+    "description": "Just an example for AWS pipeline",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tigranbs/aws-pipe.git"
+    },
+    "author": "Tigran Bayburtsyan",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/tigranbs/aws-pipe/issues"
+    },
+    "homepage": "https://github.com/tigranbs/aws-pipe#readme",
+    "dependencies": {
+        "express": "^4.16.2"
+    }
+}
