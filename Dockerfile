@@ -6,4 +6,4 @@ RUN cd /aws-pipe && npm install
 
 WORKDIR /aws-pipe
 CMD ["npm", "start"]
-EXPOSE 80
+EXPOSE 8080
